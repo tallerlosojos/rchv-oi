@@ -1,8 +1,7 @@
 ---
-title: Collection Item
+title: Objeto
 layout: item
 permalink: /item.html
 # see _data/config-metadata.csv for display options
 # do not add content to this file
 ---
-
