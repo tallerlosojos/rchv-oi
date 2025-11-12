@@ -21,3 +21,10 @@ body{
 #home-title-box .p-2{
     display: none;
 }
+
+#home-banner .navbar {
+  position: fixed;
+  bottom: 0;
+  min-width: 100vw;
+  z-index: 2;
+}
