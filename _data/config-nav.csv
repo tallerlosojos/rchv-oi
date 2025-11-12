@@ -1,9 +1,9 @@
 display_name,stub,dropdown_parent
 rchv,/,
-Base de datos,/browse.html,
+,,
 Temas,/subjects.html,
 Locaciones,/locations.html,
 Mapa,/map.html,
 Tiempo,/timeline.html,
-Metadata,/data.html,
+Base de datos,/data.html,
 Acerca de,/about.html,
