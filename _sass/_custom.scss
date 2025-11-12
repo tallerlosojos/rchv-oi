@@ -3,7 +3,11 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
 
+body{
+    font-family: 'Archivo', sans-serif;
+}
 .btn-primary {
   color: #fff;
   background-color: #2b3441;
