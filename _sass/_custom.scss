@@ -78,6 +78,6 @@ h2#item-title{
 .breadcrumb{
   display: none;
 }
-.page-item.active .page-link{
+.page-item.active .page-link, .btn-link{
   color: blue !important;
 }
