@@ -110,3 +110,14 @@ h2#item-title{
   color: blue !important;
   border-color: blue !important;
 }
+
+.page-item.active .page-link, .btn-link {
+  color: blue;
+}
+.page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color: blue;
+  border-color: #0d6efd;
+  color: white !important;
+}
