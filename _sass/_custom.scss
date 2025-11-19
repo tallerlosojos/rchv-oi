@@ -110,6 +110,14 @@ h2#item-title{
 .leaflet-popup-content p{
   line-height: 1.3rem;
 }
+
+@media (min-width: 1200px) {
+  .h4, h4 {
+    font-size: 1rem;
+    font-weight: bolder;
+  }
+}
+
 .btn-secondary, .btn-outline-primary:hover {
   color: #fff !important;
   background-color: blue !important;
