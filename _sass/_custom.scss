@@ -67,6 +67,13 @@ h2#item-title{
   margin: 0 !important;
   padding: 2rem !important;
 }
+.about-contents > h1, .about-contents > h2, .about-contents > h3, .about-contents > h4, .about-contents > h5, .about-contents > h6 {
+  max-width: 100%;
+  margin: 1.5rem auto 1rem;
+}
+.about-contents > p, .about-contents > .about-narrowed-content, .about-contents > .narrow-content, .about-contents > hr, .about-contents > .footnotes, .about-contents > ol, .about-contents > ul, .about-contents > blockquote {
+  max-width: 100%;
+}
 #about-contents h2#about-the-collection{
   border-top: 0;
   margin: 2rem 0 !important;
